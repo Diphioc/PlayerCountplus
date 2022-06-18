@@ -1,0 +1,2 @@
+# The value changes when someone logs in into the server. (-1), use -2 to make the value the same as the current online players
+Max Players: -1

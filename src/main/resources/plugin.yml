@@ -1,0 +1,7 @@
+name: PlayerCount
+description: PlayerCount
+main: com.playercountplus.PlayerCountplus
+version: 1.0
+commands:
+  pc:
+    description: PlayerCount command
