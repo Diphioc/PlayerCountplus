@@ -1,7 +1,9 @@
-name: PlayerCount
-description: PlayerCount
-main: com.playercountplus.PlayerCountplus
+name: PlayerCountPlus
+description: A Pluing thats allow you to set the player count
+main: com.diphioc.playercoutplus.PlayerCountplus
 version: 1.0
+authors: [Diphioc]
 commands:
   pc:
     description: PlayerCount command
+    permission: playercountplus.command.pc
